@@ -5,7 +5,7 @@ date:   2019-12-05 15:32:34 +0100
 categories: jekyll update
 ---
 
-![Dungeons and Dragons](/assets/dnd.jpeg){:title="Created by Hugo Vaz"}
+![Dungeons and Dragons](~/assets/dnd.jpeg){:title="Created by Hugo Vaz"}
 
 **Dear readers**,
 
