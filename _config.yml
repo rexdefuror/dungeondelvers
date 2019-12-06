@@ -30,7 +30,7 @@ twitter_username: rexdefuror
 github_username:  rexdefuror
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
