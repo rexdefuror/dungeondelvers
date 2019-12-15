@@ -5,7 +5,7 @@ date:   2019-12-05 15:51:34 +0100
 categories: campaign start rensperil
 ---
 
-![Kingdom of Kigia](/assets/images/Kigia.png){:style="width:100%"}
+![Kingdom of Kigia](/dungeondelvers/assets/images/Kigia.png){:style="width:100%"}
 
 The land of Kigia. Militaristic kingdom led by King Velubran Landram Ren and a group of sages called, Council of Grates. It is populated mostly by humans, but there are other species with the lands as well. Kings in the linage of Ren have ruled Kigia for more than thousand years, and while ruling with a firm totalitarian hand the kingdom has never refused to assist their neighbors in times of need, with the exception if they were in state of war. Nor have they ever allowed slavery to take root within it. The only thing they cared about was strength, if you are strong in body or mind you were treated better. Simple as that.
 
