@@ -5,9 +5,9 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Dungeons and Dragons story blog - adventures that happened and 
   are happening on Dungeon Delvers discord server.
 show_excerpts: false # set to true to show excerpts on the homepage
-# baseurl: "/dungeondelvers"
-# root: "/dungeondelvers"
-# url: "https://rexdefuror.github.io"
+baseurl: "/dungeondelvers"
+root: "/dungeondelvers"
+url: "https://rexdefuror.github.io"
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
