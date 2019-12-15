@@ -22,6 +22,7 @@ texture:
   style: red
   showNav: false
   showPicker: false
+  analytics_id: UA-154654086-1
 
   # generate social links in footer
   social_links:
