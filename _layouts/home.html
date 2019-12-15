@@ -1,0 +1,52 @@
+---
+layout: page
+---
+{%- if site.posts.size > 0 -%}
+<h2 style="color:darkred;">Campaign stories</h2>
+<ul class="posts">
+	{%- for post in site.posts -%}
+	<li>
+		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+		<div class="post-meta">
+			<a class="post-link" href="{{ post.url | relative_url }}">
+				<h2 class="post-title">{{ post.title | escape }}</h2>
+			</a>
+			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
+		</div>
+		<div class="post">
+			{%- if site.show_excerpts -%}
+			{{ post.excerpt }}
+			{%- endif -%}
+		</div>
+	</li>
+	{%- endfor -%}
+</ul>
+<hr />
+{%- endif -%}
+
+<div style="background-color: #fafafa;">
+	<img src="/assets/images/ReimondForest.png">
+	<div style="padding: 10px;">
+		<h2 style="color:darkred;">Welcome</h2>
+		<p>
+			This is a Dungeon Delvers story blog. Current and past adventures of folks at the Dungeon Delvers discord
+			server.
+			Their challenges, victories, defeats and joy are all passed how they have lived it.
+		</p>
+		<p>
+			Everyone is welcome to <a href="https://discord.gg/aMVNbEt">join the server</a> and read the adventures live
+			as
+			they are
+			written.
+		</p>
+		<p>
+			Feel free to comment and leave feedback if you'd like to see more.
+		</p>
+		<p>
+			May dice forever roll in your favor.
+		</p>
+		<p>
+			<strong>Dungeon Delvers</strong> Dungeon Master.
+		</p>
+	</div>
+</div>
