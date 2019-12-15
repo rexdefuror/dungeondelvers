@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "[Rens Peril] Meeting"
 date:   2019-12-05 15:51:34 +0100
 categories: campaign start rensperil
