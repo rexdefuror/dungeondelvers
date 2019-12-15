@@ -23,6 +23,7 @@ texture:
   showNav: false
   showPicker: false
   analytics_id: 'UA-154654086-1'
+  disqus_shortname: dungeondelvers
 
   # generate social links in footer
   social_links:
