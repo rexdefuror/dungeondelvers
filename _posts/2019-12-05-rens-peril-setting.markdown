@@ -134,10 +134,8 @@ Corpos
 `That would be perfect. I will take one.`
 As soon as she leaves I take one more cautious look a cross the room. To see if my past did not follow me here and to better assess the current atmosphere.
 
-```
-Corpos makes a Perception check!
-1d20 (20) + 7 = 27
-```
+>Corpos makes a Perception check!
+>1d20 (20) + 7 = 27
 
 ```
 Dungeon Master
@@ -190,10 +188,8 @@ Dungeon Master
 ```
 `They're saying the Gatekeepers are defying the Gods themselves and the Gods are not responding, so I'm guessing some of them have their faiths shaken. The problems are not regular folk... but the fanatic types. We don't know what to expect.` She raises her hand to massage her left temple, obviously tired and frustrated by the recent developments.
 
-```
-Artorigus makes an Insight check!
-1d20 (12) + 0 = 12
-```
+>Artorigus makes an Insight check!
+>1d20 (12) + 0 = 12
 
 Knowing the priests from Grates and surrounding towns, you can assume that the pressure they are making towards Adventurers Guild is probably worse than the Rift itself...
 
@@ -218,10 +214,8 @@ Dungeon Master
 ```
 `Thank you...` says Elsyl, showing that she is greatly relieved. `Here is your usual upfront payment, we added a little extra, due to urgency.` She turns to Myst with the small jingling sack, that obviously holds coin. She knows you well enough to know that the Paladin in front of her is a man of virtue that does not like being paid for such things... This elf on the other hand...
 
-```
-Myst makes a Perception check!
-1d20 (15) + 6 = 21
-```
+>Myst makes a Perception check!
+>1d20 (15) + 6 = 21
 
 The bag is quite a bit heavier than what you usually receive. Knowing the finances of your raiding party, what you usually get is around 30g pieces for a D or 20g for a E rank Rift. Although this is a C rank this upfront is more than 40... no probably more than 50 gold...
 Your costs per day for a full 7 party are approximately 2 gold.

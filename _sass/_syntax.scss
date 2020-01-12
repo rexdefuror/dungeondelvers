@@ -4,7 +4,7 @@ div.highlighter-rouge {
 	width: 100vw;
 	position: relative;
 	right: 150px;
-	margin: 40px 0;
+	margin: 10px 0 0 0;
 }
 
 .highlight {
@@ -12,12 +12,40 @@ div.highlighter-rouge {
 }
 
 div.highlight {
-	padding: 30px 150px;
+	padding: 0px 20px;
 }
 
-pre.highlight, code {
+pre.highlight {
 	font-family: 'Consolas', Menlo, monospace;
 	line-height: 1.4em;
 	tab-size: 4;
-	background-color: #eaeaea;
+	background-color: #485460;
+	color: #fff;
+}
+
+code {
+	line-height: 1.4em;
+	tab-size: 4;
+	background-color: #718093;
+	color: #fff;
+	padding: 2px 4px;
+}
+
+pre.highlight > code {
+	font-family: 'Nunito Sans', sans-serif;
+	line-height: 1.4em;
+	tab-size: 4;
+	background-color: #485460 !important;
+	color: #fff;
+}
+
+blockquote {
+	background-color: #fa8231;
+	color: #fff;
+	padding: 5px 10px;
+}
+
+.posts li {
+	background-color: #f5f6fa;
+	padding: 5px 10px;
 }
